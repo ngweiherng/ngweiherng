@@ -1,4 +1,4 @@
-# Edge Computing Lab Quiz - Quick Reference (40-Minute Format)
+# Edge Computing Lab Quiz - Quick Reference
 
 ## Virtual Environment Setup (All Labs)
 ```bash
